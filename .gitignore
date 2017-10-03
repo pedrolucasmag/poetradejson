@@ -6,5 +6,5 @@
 *.bat
 *.cmd
 *.btm
-example_input.json
+
 # End of https://www.gitignore.io/api/batch
