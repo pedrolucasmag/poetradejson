@@ -1,6 +1,6 @@
 cd C:\Portable\poe\poe.trade sniper\ocra\input\
 git add .
 git commit -m "heroku"
-git push master
+git push -f origin master
 echo Press Enter...
 read
