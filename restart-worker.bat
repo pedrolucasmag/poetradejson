@@ -1,1 +1,0 @@
-heroku ps:restart worker.1 --app poetrade-heroku
