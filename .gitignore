@@ -1,6 +1,10 @@
 
 # Created by https://www.gitignore.io/api/batch
 
+### Filenames ###
+example_input.json
+example.txt
+
 ### Batch ###
 # BatchFiles
 *.bat
